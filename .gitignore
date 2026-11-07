@@ -1,0 +1,61 @@
+
+# ==============================
+# Python virtual environments
+# ==============================
+.venv/
+venv/
+env/
+
+# ==============================
+# Python cache and compiled files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE and editor settings
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Environment variables and secrets
+# ==============================
+.env
+.env.*
+
+# ==============================
+# Operating system files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# Raw datasets
+# ==============================
+data/raw/*.csv
+
+# ==============================
+# Generated processed datasets
+# ==============================
+data/processed/*.csv
+
+# Keep the final customer segmentation output
+!data/processed/customer_segments.csv
+
+*.log
+
+Local data files (download the dataset from the source linked in README)
+
+data/raw/.csv data/processed/.csv
