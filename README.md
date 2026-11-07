@@ -7,6 +7,8 @@ spending and payment patterns. An interactive dashboard supports both
 prediction with a previously trained model and fresh clustering on a
 newly uploaded compatible dataset.
 
+**GitHub repository:** [Credit-Card-Customer-Segmentation](https://github.com/Ka1003ik/Credit-Card-Customer-Segmentation)
+
 ## Project Objectives
 
 -   Explore and understand credit-card customer behaviour.
